@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品经理视角拆解"
+  short_description: "围绕核心场景分主次，深入流程与关键机制，生成内容一致的 Word 与 HTML"
+  default_prompt: "使用 $product-teardown 拆解这个产品：先确定主场景与最终交付，再沿同一流程分层追问，主线深拆、支撑简述、旁支后置，保留竞品与证据分级，同时生成内容一致的 Word 和 HTML。"
